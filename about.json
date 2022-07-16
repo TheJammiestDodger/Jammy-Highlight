@@ -3,5 +3,6 @@
   "about_url": "https://some.url.com",
   "license_url": "https://github.com/GitHubUsername/my-first-remote-theme/blob/master/LICENSE",
   "component": true,
-  "authours": "JammyDodger"
+  "authors": "JammyDodger",
+  "theme_version": 1.0
 }
