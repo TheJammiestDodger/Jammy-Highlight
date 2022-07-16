@@ -1,8 +1,0 @@
-highlight_button:
-  default: "Highlight"
-  description:
-    en: Enter the text for the title of the button in the composer.
-highlight_text:
-  default: "highlighted text"
-  description:
-    en: Enter the placeholder text that appears in the composer after the user clicks the button.
